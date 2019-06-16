@@ -1,0 +1,17 @@
+.idea
+moderation/node_modules/*
+moderation/config/default.js
+moderation/package-lock.json
+models/*
+samples/logs/*
+perl/*
+cofig/*.json
+source/*
+venv/*
+
+datasets/ocr/*
+datasets/region/*
+datasets/mrcnn/*
+
+public/npdetect.php
+Mask_RCNN/*
